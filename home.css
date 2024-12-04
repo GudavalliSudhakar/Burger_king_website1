@@ -36,7 +36,7 @@ body {
   }
   
   section#home {
-    background: url('../images/bg_image.png') no-repeat center center/cover;
+    background: url('bg_image.png') no-repeat center center/cover;
     color: white;
     height: 40vh;
     text-align: center;
